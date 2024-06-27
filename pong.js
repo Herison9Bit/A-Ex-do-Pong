@@ -16,7 +16,7 @@ function draw(){
 }
 
 // omg bolinha mexe wooooo
-function nossabolinha(xbolinhadoenzo,ybolinhadoenzo,tamboinhadoenzo){
+function nossabolinha(xbolinhadoenzo,ybolinhadoenzo, tambolinhadoenzo){
     circle (xbolinhadoenzo,ybolinhadoenzo,tambolinhadoenzo);
 
 
