@@ -3,10 +3,12 @@ let xbolinhadoenzo = 300;
 let ybolinhadoenzo = 200;
 let tambolinhadoenzo = 25;
 
+let xvb = 6
+let yvb = 6
 
 function setup(){
     //aqui vou criar minha "mesa"
-createCanvas(166,720);
+createCanvas(1366,720);
 }
 
 function draw(){
