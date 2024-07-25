@@ -29,10 +29,10 @@ function movebolinha(){
 }
 function kikabolinha(){
     if (ybolinhadoenzo > width || xbolinhadoenzo < 0){
-        xbolinhadoenzo *= -1;
+        xvb *= -1;
         
     }
     if (xbolinhadoenzo > width || ybolinhadoenzo < 0){
-        ybolinhadoenzo *= -1;    
+        yvb *= -1;    
     
 }
