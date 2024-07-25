@@ -15,6 +15,7 @@ function draw(){
     //aqui vou po a cor da "mesa"
     background(25,25,112);
     nossabolinha(xbolinhadoenzo,ybolinhadoenzo,tambolinhadoenzo)
+    movebolinha();
 }
 
 // omg bolinha mexe wooooo
