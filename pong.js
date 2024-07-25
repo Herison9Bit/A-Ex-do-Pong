@@ -32,5 +32,7 @@ function kikabolinha(){
         xbolinhadoenzo *= -1;
         
     }
+    if (xbolinhadoenzo > width || ybolinhadoenzo < 0){
+        ybolinhadoenzo *= -1;    
     
 }
