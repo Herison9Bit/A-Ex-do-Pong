@@ -26,3 +26,10 @@ function movebolinha(){
     xbolinhadoenzo = xbolinhadoenzo + xvb
     ybolinhadoenzo = ybolinhadoenzo + yvb
 }
+function kikabolinha(){
+    if (ybolinhadoenzo => 1366){
+        ybolinhadoenzo = ybolinhadoenzo + (yvb*100)
+        
+    }
+    
+}
