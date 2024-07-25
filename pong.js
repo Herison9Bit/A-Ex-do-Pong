@@ -6,7 +6,7 @@ let tambolinhadoenzo = 25;
 
 function setup(){
     //aqui vou criar minha "mesa"
-createCanvas(600,800);
+createCanvas(1366,720);
 }
 
 function draw(){
