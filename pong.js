@@ -1,7 +1,7 @@
 //bolinha
 let xbolinhadoenzo = 300;
 let ybolinhadoenzo = 200;
-let tambolinhaenzo = 25;
+let tambolinhadoenzo = 25;
 
 
 function setup(){
@@ -12,7 +12,7 @@ createCanvas(600,400);
 function draw(){
     //aqui vou por a cor da "mesa"
     background(25,25,112);
-    nossabolinha(xbolinhadoenzo,ybolinhadoenzo,tambolinhaenzo)
+    nossabolinha(xbolinhadoenzo,ybolinhadoenzo,tambolinhadoenzo)
 }
 
 // omg bolinha mexe wooooo
