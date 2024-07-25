@@ -28,8 +28,8 @@ function movebolinha(){
     ybolinhadoenzo = ybolinhadoenzo + yvb
 }
 function kikabolinha(){
-    if (ybolinhadoenzo =< 1366){
-        ybolinhadoenzo = ybolinhadoenzo - yvb
+    if (ybolinhadoenzo > width || xbolinhadoenzo < 0){
+        xbolinhadoenzo *= -1;
         
     }
     
