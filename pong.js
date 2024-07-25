@@ -6,11 +6,11 @@ let tambolinhadoenzo = 25;
 
 function setup(){
     //aqui vou criar minha "mesa"
-createCanvas(600,400);
+createCanvas(1920,1080);
 }
 
 function draw(){
-    //aqui vou por a cor da "mesa"
+    //aqui vou po a cor da "mesa"
     background(25,25,112);
     nossabolinha(xbolinhadoenzo,ybolinhadoenzo,tambolinhadoenzo)
 }
