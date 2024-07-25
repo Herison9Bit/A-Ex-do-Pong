@@ -16,7 +16,7 @@ function draw(){
     background(25,25,112);
     nossabolinha(xbolinhadoenzo,ybolinhadoenzo,tambolinhadoenzo)
     movebolinha();
-    kikabolinha();
+    
 }
 
 // omg bolinha mexe wooooo
