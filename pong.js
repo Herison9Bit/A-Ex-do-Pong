@@ -28,7 +28,7 @@ function movebolinha(){
 }
 function kikabolinha(){
     if (ybolinhadoenzo => 1366){
-        ybolinhadoenzo = ybolinhadoenzo - (yvb*100)
+        ybolinhadoenzo = 1000
         
     }
     
